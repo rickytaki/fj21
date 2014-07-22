@@ -1,0 +1,5 @@
+package br.caelum.jdbc;
+
+public class ConnectionFactory {
+
+}

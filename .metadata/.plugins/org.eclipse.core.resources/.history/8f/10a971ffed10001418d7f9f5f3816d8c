@@ -1,0 +1,5 @@
+package br.caelum.jdbc.dao;
+
+public class TestaInsere {
+
+}
