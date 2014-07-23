@@ -1,0 +1,7 @@
+<%@ tag language="java" pageEncoding="UTF-8"%>
+<%@ attribute name="id" required="true" %>
+
+<input id="${id}" name="${name}" />
+<script>
+	$("#${id}").datepicker({dateFormat: 'dd/mm/yy'});
+</script>
