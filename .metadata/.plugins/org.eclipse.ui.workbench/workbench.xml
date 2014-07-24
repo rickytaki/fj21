@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="53" version="2.0">
+<workbench progressCount="69" version="2.0">
 <workbenchAdvisor/>
 <window height="744" maximized="true" width="1016" x="197" y="24">
 <fastViewData fastViewLocation="1024"/>
@@ -22,77 +22,29 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="184" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.html.core.htmlsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.html.core.htmlsource.source" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.server.ui.editor" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
-<page aggregateWorkingSetId="Aggregate for window 1405950755548" focus="true" label="Workspace - Java">
+<page aggregateWorkingSetId="Aggregate for window 1405950755548" focus="true" label="Workspace - Java EE">
 <editors>
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" partName="index.html" path="/home/web4433/workspace/fj-21-agenda/WebContent/index.html" title="index.html" tooltip="fj-21-agenda/WebContent/index.html" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj-21-agenda/WebContent/index.html"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="285" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OiMundo.java" partName="OiMundo.java" path="/home/web4433/workspace/fj-21-agenda/src/br/com/caelum/servlet/OiMundo.java" title="OiMundo.java" tooltip="fj-21-agenda/src/br/com/caelum/servlet/OiMundo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj-21-agenda/src/br/com/caelum/servlet/OiMundo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="455" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdicionaContatoServlet.java" partName="AdicionaContatoServlet.java" path="/home/web4433/workspace/fj-21-agenda/src/br/com/caelum/agenda/servlet/AdicionaContatoServlet.java" title="AdicionaContatoServlet.java" tooltip="fj-21-agenda/src/br/com/caelum/agenda/servlet/AdicionaContatoServlet.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj-21-agenda/src/br/com/caelum/agenda/servlet/AdicionaContatoServlet.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1639" selectionTopPixel="533"/>
-</editor>
-<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="bemvindo.jsp" partName="bemvindo.jsp" path="/home/web4433/workspace/fj-21-agenda/WebContent/bemvindo.jsp" title="bemvindo.jsp" tooltip="fj-21-agenda/WebContent/bemvindo.jsp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj-21-agenda/WebContent/bemvindo.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="572" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ContatoDao.java" partName="ContatoDao.java" path="/home/web4433/workspace/fj-21-agenda/src/br/com/caelum/agenda/dao/ContatoDao.java" title="ContatoDao.java" tooltip="fj-21-agenda/src/br/com/caelum/agenda/dao/ContatoDao.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj-21-agenda/src/br/com/caelum/agenda/dao/ContatoDao.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="lista-contatos-scriptlet.jsp" partName="lista-contatos-scriptlet.jsp" path="/home/web4433/workspace/fj-21-agenda/WebContent/lista-contatos-scriptlet.jsp" title="lista-contatos-scriptlet.jsp" tooltip="fj-21-agenda/WebContent/lista-contatos-scriptlet.jsp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj-21-agenda/WebContent/lista-contatos-scriptlet.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="670" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.wst.html.core.htmlsource.source" name="erro.html" partName="erro.html" path="/home/web4433/workspace/fj-21-agenda/WebContent/erro.html" title="erro.html" tooltip="fj-21-agenda/WebContent/erro.html" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj-21-agenda/WebContent/erro.html"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.wst.html.core.htmlsource.source" name="adiciona-contato.html" partName="adiciona-contato.html" path="/home/web4433/workspace/fj-21-agenda/WebContent/adiciona-contato.html" title="adiciona-contato.html" tooltip="fj-21-agenda/WebContent/adiciona-contato.html" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj-21-agenda/WebContent/adiciona-contato.html"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="314" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="digita-idade.jsp" partName="digita-idade.jsp" path="/home/web4433/workspace/fj-21-agenda/WebContent/digita-idade.jsp" title="digita-idade.jsp" tooltip="fj-21-agenda/WebContent/digita-idade.jsp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj-21-agenda/WebContent/digita-idade.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="469" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jst.jsp.core.jspsource.source" name="mostra-idade.jsp" partName="mostra-idade.jsp" path="/home/web4433/workspace/fj-21-agenda/WebContent/mostra-idade.jsp" title="mostra-idade.jsp" tooltip="fj-21-agenda/WebContent/mostra-idade.jsp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj-21-agenda/WebContent/mostra-idade.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="326" selectionTopPixel="0"/>
-</editor>
 </editors>
 <views>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Type Hierarchy">
+<viewState hidefields="false" hidelocaltypes="false" hidenonpublic="false" hidestatic="false" input="=fj-21-agenda" link_editors="0" mv_vertical_scroll="0" orientation="3" qualified_names="0" ratio="350" selection="=fj-21-agenda/\/usr\/lib\/jvm\/java-7-oracle\/jre\/lib\/rt.jar&lt;java.lang(Object.class[Object" showinherited="false" sortbydefiningtype="false" vertical_scroll="0" view="2" workingSetName=""/>
+</view>
 <view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
 <viewState/>
 </view>
@@ -101,9 +53,11 @@
 </view>
 <view id="org.eclipse.ui.views.AllMarkersView" partName="Markers">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.allSeverityField" categoryGroup="org.eclipse.ui.ide.type" markerContentGenerator="org.eclipse.ui.ide.allMarkersGenerator" partName="Markers">
-<expanded>&#x0A;<category IMemento.internal.id="Java Exception Breakpoints (2 items)"/>
+<expanded>
+<category IMemento.internal.id="Java Exception Breakpoints (2 items)"/>
+<category IMemento.internal.id="JSP Problem"/>
 </expanded>
-<columnWidths org.eclipse.ui.ide.allSeverityField="350" org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="105" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105"/>
+<columnWidths org.eclipse.ui.ide.allSeverityField="350" org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="316" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.allSeverityField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
@@ -117,8 +71,8 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Warnings (1 item)"/>
 <category IMemento.internal.id="Errors"/>
+<category IMemento.internal.id="Warnings (100 of 205 items)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="332" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -127,9 +81,6 @@
 <visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
 </viewState>
-</view>
-<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
-<viewState/>
 </view>
 <view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
 <viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
@@ -163,6 +114,9 @@
 </customFilters>
 </viewState>
 </view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
 <view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List">
 <viewState linkWithEditor="true" presentation="org.eclipse.mylyn.tasks.ui.categorized">
 <sorter groupBy="CATEGORY_QUERY">
@@ -186,7 +140,7 @@
 </view>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jst.jsp.core.jspsource.source" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
@@ -221,6 +175,7 @@
 <show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
 <show_view_action id="org.eclipse.search.ui.views.SearchView"/>
 <show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_in_time id="org.eclipse.jdt.ui.PackageExplorer" time="1406227454177"/>
 <new_wizard_action id="org.eclipse.jpt.jpa.ui.wizard.newJpaProject"/>
 <new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
 <new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
@@ -249,46 +204,64 @@
 <view id="org.eclipse.wst.server.ui.ServersView"/>
 <view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
 <view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
 <fastViewBars/>
-<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@182337c" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@182337c" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.24950495" ratioLeft="252" ratioRight="758" relationship="2" relative="topLeft"/>
-<info folder="true" part="bottomRight" ratio="0.69854134" ratioLeft="431" ratioRight="186" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.AllMarkersView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.AllMarkersView" label="Markers"/>
+<info folder="true" part="bottomRight" ratio="0.69854134" ratioLeft="431" ratioRight="186" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.AllMarkersView" label="Markers"/>
 <page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
 <page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
 <page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="Data Source Explorer"/>
 <page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
 <page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
 <part id="4"/>
+<part id="5"/>
+<part id="6"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="topRight" ratio="0.69920844" ratioLeft="530" ratioRight="228" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<info folder="true" part="topRight" ratio="0.69920844" ratioLeft="530" ratioRight="228" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
@@ -352,12 +325,13 @@
 <perspective_action id="org.eclipse.wst.jsdt.ui.JavaPerspective"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="org.eclipse.jdt.ui.PackageExplorer"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
 <view id="org.eclipse.jdt.ui.JavadocView"/>
 <view id="org.eclipse.jdt.ui.SourceView"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
 <fastViewBars/>
@@ -366,12 +340,13 @@
 <info folder="true" part="left">
 <folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
 <page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
-<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Type Hierarchy"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
+<part id="1"/>
 </presentation>
 </folder>
 </info>
@@ -382,7 +357,7 @@
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.24950495" ratioLeft="252" ratioRight="758" relationship="2" relative="left"/>
+<info part="org.eclipse.ui.editorss" ratio="0.28527132" ratioLeft="368" ratioRight="922" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.75" ratioLeft="462" ratioRight="154" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
@@ -425,180 +400,23 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory>
-<editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/fj-21-agenda/WebContent/WEB-INF/web.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/fj-21-agenda/WebContent/adiciona-contato.html"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj-21-agenda/src/br/com/caelum/agenda/servlet/AdicionaContatoServlet.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj-21-agenda/src/br/com/caelum/agenda/modelo/Contato.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj-21-agenda/src/br/com/caelum/agenda/dao/ContatoDao.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/fj-21-agenda/WebContent/erro.html4"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/fj-21-agenda/WebContent/erro.html"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/fj-21-agenda/WebContent/404.html"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/fj-21-agenda/WebContent/bemvindo.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj-21-agenda/src/br/com/caelum/agenda/dao/ContatoDao.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/fj-21-agenda/WebContent/lista-contatos-scriptlet.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/fj-21-agenda/WebContent/erro.html"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/fj-21-agenda/WebContent/index.html"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/fj-21-agenda/WebContent/digita-idade.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/fj-21-agenda/WebContent/mostra-idade.jsp"/>
-</editors>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1451" y="5"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1488" y="14"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1522" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1522" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1526" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1544" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1570" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1675" y="0"/>
-</item>
-<item historyLabel="adiciona-contato.html" index="1">
-<position/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1675" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="987" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1098" y="4"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1398" y="0"/>
-</item>
-<item historyLabel="Contato.java" index="3">
-<position info="not_deleted" x="301" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1398" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="519" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1252" y="14"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1686" y="0"/>
-</item>
-<item historyLabel="ContatoDao.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="erro.html4" index="5">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="ContatoDao.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="erro.html" index="6">
-<position info="not_deleted" x="251" y="0"/>
-</item>
-<item historyLabel="web.xml" index="0">
-<position info="not_deleted" x="1053" y="0"/>
-</item>
-<item historyLabel="404.html" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="web.xml" index="0">
-<position info="not_deleted" x="1095" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1241" y="0"/>
-</item>
-<item historyLabel="bemvindo.jsp" index="8">
-<position info="not_deleted" x="572" y="0"/>
-</item>
-<item historyLabel="adiciona-contato.html" index="1">
-<position/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1241" y="0"/>
-</item>
-<item historyLabel="ContatoDao.java" index="9">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="adiciona-contato.html" index="1">
-<position/>
-</item>
-<item historyLabel="ContatoDao.java" index="9">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1241" y="0"/>
-</item>
-<item historyLabel="lista-contatos-scriptlet.jsp" index="10">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="lista-contatos-scriptlet.jsp" index="10">
-<position info="not_deleted" x="745" y="0"/>
-</item>
-<item historyLabel="lista-contatos-scriptlet.jsp" index="10">
-<position info="not_deleted" x="681" y="1"/>
-</item>
-<item historyLabel="lista-contatos-scriptlet.jsp" index="10">
-<position info="not_deleted" x="745" y="0"/>
-</item>
-<item historyLabel="lista-contatos-scriptlet.jsp" index="10">
-<position info="not_deleted" x="475" y="0"/>
-</item>
-<item historyLabel="adiciona-contato.html" index="1">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="lista-contatos-scriptlet.jsp" index="10">
-<position info="not_deleted" x="475" y="0"/>
-</item>
-<item historyLabel="bemvindo.jsp" index="8">
-<position info="not_deleted" x="572" y="0"/>
-</item>
-<item historyLabel="erro.html" index="11">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="index.html" index="12">
-<position info="not_deleted" x="285" y="0"/>
-</item>
-<item historyLabel="lista-contatos-scriptlet.jsp" index="10">
-<position/>
-</item>
-<item historyLabel="adiciona-contato.html" index="1">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="lista-contatos-scriptlet.jsp" index="10">
-<position/>
-</item>
-<item historyLabel="AdicionaContatoServlet.java" index="2">
-<position info="not_deleted" x="1639" y="0"/>
-</item>
-<item historyLabel="adiciona-contato.html" index="1">
-<position info="not_deleted" x="314" y="0"/>
-</item>
-<item historyLabel="digita-idade.jsp" index="13">
-<position info="not_deleted" x="469" y="0"/>
-</item>
-<item active="true" historyLabel="mostra-idade.jsp" index="14">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-</navigationHistory>
+<navigationHistory/>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+<trimItem IMemento.internal.id="topLeft"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
+<trimItem IMemento.internal.id="right"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@6a6b7a"/>
+<trimItem IMemento.internal.id="bottomRight"/>
+<trimItem IMemento.internal.id="topRight"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 <trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
@@ -611,50 +429,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="mostra-idade.jsp" tooltip="fj-21-agenda/WebContent/mostra-idade.jsp">
-<persistable path="/fj-21-agenda/WebContent/mostra-idade.jsp"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Tarefa.java" tooltip="fj21-tarefas/src/br/com/caelum/tarefas/modelo/Tarefa.java">
+<persistable path="/fj21-tarefas/src/br/com/caelum/tarefas/modelo/Tarefa.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="digita-idade.jsp" tooltip="fj-21-agenda/WebContent/digita-idade.jsp">
-<persistable path="/fj-21-agenda/WebContent/digita-idade.jsp"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="mostra.jsp" tooltip="fj21-tarefas/WebContent/WEB-INF/views/mostra.jsp">
+<persistable path="/fj21-tarefas/WebContent/WEB-INF/views/mostra.jsp"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="adiciona-contato.html" tooltip="fj-21-agenda/WebContent/adiciona-contato.html">
-<persistable path="/fj-21-agenda/WebContent/adiciona-contato.html"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="lista.jsp" tooltip="fj21-tarefas/WebContent/WEB-INF/views/lista.jsp">
+<persistable path="/fj21-tarefas/WebContent/WEB-INF/views/lista.jsp"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="erro.html" tooltip="fj-21-agenda/WebContent/erro.html">
-<persistable path="/fj-21-agenda/WebContent/erro.html"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="adicionada.jsp" tooltip="fj21-tarefas/WebContent/WEB-INF/views/adicionada.jsp">
+<persistable path="/fj21-tarefas/WebContent/WEB-INF/views/adicionada.jsp"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="lista-contatos-scriptlet.jsp" tooltip="fj-21-agenda/WebContent/lista-contatos-scriptlet.jsp">
-<persistable path="/fj-21-agenda/WebContent/lista-contatos-scriptlet.jsp"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TarefasController.java" tooltip="fj21-tarefas/src/br/com/caelum/tarefas/controller/TarefasController.java">
+<persistable path="/fj21-tarefas/src/br/com/caelum/tarefas/controller/TarefasController.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="formulario.jsp" tooltip="fj21-tarefas/WebContent/WEB-INF/views/formulario.jsp">
+<persistable path="/fj21-tarefas/WebContent/WEB-INF/views/formulario.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" tooltip="fj21-tarefas/WebContent/WEB-INF/web.xml">
+<persistable path="/fj21-tarefas/WebContent/WEB-INF/web.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="ok.jsp" tooltip="fj21-tarefas/WebContent/WEB-INF/views/ok.jsp">
+<persistable path="/fj21-tarefas/WebContent/WEB-INF/views/ok.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OlaMundoSpring.java" tooltip="fj21-tarefas/src/br/com/caelum/tarefas/controller/OlaMundoSpring.java">
+<persistable path="/fj21-tarefas/src/br/com/caelum/tarefas/controller/OlaMundoSpring.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ContatoDao.java" tooltip="fj-21-agenda/src/br/com/caelum/agenda/dao/ContatoDao.java">
 <persistable path="/fj-21-agenda/src/br/com/caelum/agenda/dao/ContatoDao.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="bemvindo.jsp" tooltip="fj-21-agenda/WebContent/bemvindo.jsp">
-<persistable path="/fj-21-agenda/WebContent/bemvindo.jsp"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FiltroConexao.java" tooltip="fj-21-agenda/src/br/com/caelum/mvc/agenda/filtro/FiltroConexao.java">
+<persistable path="/fj-21-agenda/src/br/com/caelum/mvc/agenda/filtro/FiltroConexao.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="404.html" tooltip="fj-21-agenda/WebContent/404.html">
-<persistable path="/fj-21-agenda/WebContent/404.html"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ListaContatosLogic.java" tooltip="fj-21-agenda/src/br/com/caelum/mvc/logic/ListaContatosLogic.java">
+<persistable path="/fj-21-agenda/src/br/com/caelum/mvc/logic/ListaContatosLogic.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="erro.html4" tooltip="fj-21-agenda/WebContent/erro.html4">
-<persistable path="/fj-21-agenda/WebContent/erro.html4"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RemoveContatoLogica.java" tooltip="fj-21-agenda/src/br/com/caelum/mvc/logica/RemoveContatoLogica.java">
+<persistable path="/fj-21-agenda/src/br/com/caelum/mvc/logica/RemoveContatoLogica.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Contato.java" tooltip="fj-21-agenda/src/br/com/caelum/agenda/modelo/Contato.java">
-<persistable path="/fj-21-agenda/src/br/com/caelum/agenda/modelo/Contato.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ControllerServlet.java" tooltip="fj-21-agenda/src/br/caelum/mvc/servlet/logica/ControllerServlet.java">
+<persistable path="/fj-21-agenda/src/br/caelum/mvc/servlet/logica/ControllerServlet.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdicionaContatoServlet.java" tooltip="fj-21-agenda/src/br/com/caelum/agenda/servlet/AdicionaContatoServlet.java">
-<persistable path="/fj-21-agenda/src/br/com/caelum/agenda/servlet/AdicionaContatoServlet.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" tooltip="fj-21-agenda/WebContent/WEB-INF/web.xml">
-<persistable path="/fj-21-agenda/WebContent/WEB-INF/web.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OiMundo.java" tooltip="fj-21-agenda/src/br/com/caelum/servlet/OiMundo.java">
-<persistable path="/fj-21-agenda/src/br/com/caelum/servlet/OiMundo.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" tooltip="fj-21-agenda/WebContent/index.html">
-<persistable path="/fj-21-agenda/WebContent/index.html"/>
-</file>
-<file factoryID="org.eclipse.wst.server.ui.editor.input.factory" id="org.eclipse.wst.server.ui.editor" name="Tomcat v7.0 Server at localhost" tooltip="Tomcat v7.0 Server at localhost">
-<persistable server-id="Tomcat v7.0 Server at localhost"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="NewFile.jsp" tooltip="fj-21-agenda/WebContent/NewFile.jsp">
+<persistable path="/fj-21-agenda/WebContent/NewFile.jsp"/>
 </file>
 </mruList>
 </workbench>

@@ -10,15 +10,15 @@
 </head>
 <body>
 	<c:import url="cabecalho.jsp" />
-	<jsp:useBean id="dao" class="br.com.caelum.agenda.dao.ContatoDao">
 		<table border="1">
 		<tr>
 			<th>Nome</th>
 			<th>Email</th>
 			<th>Endereço</th>
 			<th>Data de Nascimento</th>
+			<th>Remover</th>
 		</tr>
-			<c:forEach var="contato" items="${dao.lista}" varStatus="id">
+			<c:forEach var="contato" items="${contatos}" varStatus="id">
 				<tr bgcolor="#${id.count % 2 == 0 ? '#7CFC00' : '#8B7355' }">
 					<td>${contato.nome}</td>
 					<td>
@@ -32,10 +32,12 @@
 					</td>
 					<td>${contato.endereco}</td>
 					<td><fmt:formatDate value="${contato.dataNascimento.time}" pattern= "dd/MM/yyyy" /></td>
+					<td><a href="mvc?logica=RemoveContatoLogica&id=${contato.id}">Remover</a></td>
 				</tr>
 			</c:forEach>
+			
 		</table>
-	</jsp:useBean>
 	<c:import url="rodape.jsp" />
+	
 </body>
 </html>

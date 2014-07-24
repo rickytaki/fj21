@@ -1,3 +1,7 @@
 INDEX VERSION 1.126
 /home/web4433/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3745157606.index
 /fj-21-agenda/src
+/home/web4433/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1226679184.index
+/fj21-tarefas/src
+/home/web4433/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/409742058.index
+/fj21-tarefas/src
